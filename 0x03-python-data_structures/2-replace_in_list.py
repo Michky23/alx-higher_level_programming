@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def replace_in_list(my_list, idx, element):
-    """function that replaces an element of a list at a specific position (like in C).
+    """function that replaces an element of a list at a specific position.
 
     Arguments:
         my_list: the element of the list
